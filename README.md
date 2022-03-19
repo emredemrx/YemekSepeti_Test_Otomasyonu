@@ -35,5 +35,4 @@ public string[] Password =
 ![Ornek_html_log_kaydi](https://user-images.githubusercontent.com/37083519/159131155-78c6e4d6-a79d-4664-97d4-95c882d5bada.JPG)
 ## Ornek Case-1
 ![login](https://user-images.githubusercontent.com/37083519/159131159-ebfeda82-a716-4176-a67e-56c8f7bb03a8.JPG)
-## Ornek Case-2
-![arama](https://user-images.githubusercontent.com/37083519/159131161-2cefd680-b612-413e-b42a-96f64cf6e13b.JPG)
+
